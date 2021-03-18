@@ -102,3 +102,15 @@ dist
 
 # TernJS port file
 .tern-port
+/NetBeansProjects/BubbleSort/nbproject/private/
+/NetBeansProjects/BubbleSort/build/
+/NetBeansProjects/Lesson1/nbproject/private/
+/NetBeansProjects/Lesson1/build/
+/NetBeansProjects/PrintInteger/nbproject/private/
+/NetBeansProjects/PrintInteger/build/
+/NetBeansProjects/Integers/nbproject/private/
+/NetBeansProjects/Integers/build/
+/NetBeansProjects/NumIntergers/nbproject/private/
+/NetBeansProjects/NumIntergers/build/
+/NetBeansProjects/IPT2_LABEXAM/nbproject/private/
+/NetBeansProjects/JavaApplication8/nbproject/private/
